@@ -1,0 +1,13 @@
+body{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    background-image: url(foto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 17%;
+    ;
+}
